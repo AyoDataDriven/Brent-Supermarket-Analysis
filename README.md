@@ -223,9 +223,9 @@ Transactions between $4,000 and $8,000 had the lowest count, suggesting the need
 The analysis confirmed several initial expectations, such as the Northern Region’s strong performance and Beverages being the highest revenue-generating product. However, the seasonal dip in February and April was more pronounced than expected, affecting even top-performing salespeople. Additionally, New York’s dominance in revenue generation was a surprising insight, indicating a strong customer base in that location. The underperformance of Jan Kotas compared to his regional counterparts further highlighted disparities in sales effectiveness, suggesting an opportunity for focused training interventions.
 
 # DATA VISUALISATION AND CHARTS
-https://github.com/AyoDataDriven/Brent-Supermarket-Analysis/blob/main/Corrected%20Dashboard%201.png
 
-# Link to the Excel documents and Dashboard:https://docs.google.com/spreadsheets/d/1jY9yfBPf6tjt1LTohjpxBQMoaVeTZKv_/edit?usp=drive_link&ouid=112684727374105201441&rtpof=true&sd=true
+
+ Link to the Excel documents and Dashboard:https://docs.google.com/spreadsheets/d/1jY9yfBPf6tjt1LTohjpxBQMoaVeTZKv_/edit?usp=drive_link&ouid=112684727374105201441&rtpof=true&sd=true
 
 ## Sales Trend Report
 The peak sales were recorded in December ($66,642.78) indicating a seasonal sales. The lowest sales were recorded in the month of February ($19,955.50). Overall the sales trend portrays a fluctuating trend.
