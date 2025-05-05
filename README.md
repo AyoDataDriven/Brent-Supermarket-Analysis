@@ -224,28 +224,27 @@ The analysis confirmed several initial expectations, such as the Northern Region
 
 # DATA VISUALISATION AND CHARTS
 
-# Link to the Excel documents and Dashboard:
+# Link to the Excel documents and Dashboard:https://docs.google.com/spreadsheets/d/1jY9yfBPf6tjt1LTohjpxBQMoaVeTZKv_/edit?usp=drive_link&ouid=112684727374105201441&rtpof=true&sd=true
 
-Sales Trend Report
+## Sales Trend Report
 The peak sales were recorded in December ($66,642.78) indicating a seasonal sales. The lowest sales were recorded in the month of February ($19,955.50). Overall the sales trend portrays a fluctuating trend.
 
-
-7.2 Top 10 Customer
+### Top 10 Customer
 Company D was the best-performing customer, contributing the highest revenue amounting to $67,180.50 to the supermarket.
 
-
-7.3 Salesperson Performance
+#### Salesperson Performance
 Nancy Freehafer was the best performing salesperson generating the highest revenue ($104,242.34) while Jan Kotas was the least performing salesperson generating $16,350.50.
 
-
-7.4 Sales by Product Category
+##### Sales by Product Category
 Beverages was the best performing product generating the highest revenue amounting to $110,577.11 to the supermarket .
 
+###### Transaction by Amount
+Products below $1000 had 218 transactions recorded and those in the range of 7000–8000 had one transaction recorded.
 
 # RECOMMENDATIONS
 Based on the findings from the Brent Supermarket Performance Dashboard, the following recommendations are proposed:
 
-🔑 Top Strategic Recommendations (Priority Actions)
+## 🔑 Top Strategic Recommendations (Priority Actions)
 Promote Top Salesperson: Promote Nancy Freehafer to Regional Supervisor to leverage her outstanding performance ($104,242.34) in training others.
 Open New Branch in New York: Due to its top revenue ($67,180.50), create a branch and delivery outlet there.
 
@@ -253,21 +252,21 @@ Transfer Andrew to Manage NY Branch: With his strong performance and familiarity
 
 Recruit Two More Salespersons: One to support Andrew in New York, another to support Laura in the Eastern Region.
 
-🤝 Performance Improvement & Collaboration
+### 🤝 Performance Improvement & Collaboration
 Transfer Jan Kotas for Mentorship: Move Jan (lowest performer: $16,350.50) to Southern Region to learn under Anne Larsen.
 
 Reward Top 3 Salespersons: Recognize Anne Larsen and Andrew Cencini for their strong contributions.
 
 Foster Inter-Regional Collaboration: Encourage peer learning — e.g., Nancy mentoring Michael, Andrew guiding Laura.
 
-📈 Sales Growth Strategies
+ #### 📈 Sales Growth Strategies
 Launch Targeted Marketing in Low Months: Focus campaigns in February, April, and July to counter seasonal drops.
 
 Implement Loyalty Program: Include discounts, coupons, or raffles to retain and attract customers.
 
 Introduce Installment Payment Plans: Make high-price products more accessible to increase demand.
 
-🔍 Monitoring & Product Strategy
+##### 🔍 Monitoring & Product Strategy
 Quarterly Monitoring & Evaluation: Track sales, customer preferences, and performance to respond to trends quickly.
 
 Ensure Availability of Top Products: Maintain stock for top sellers, discount slow movers, and match stock to regional preferences.
